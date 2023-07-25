@@ -5,7 +5,7 @@ plugins {
 }
 
 group = 'com.dockertest'
-version = '0.0.1-SNAPSHOT'
+version = 'V0.1'
 
 java {
 	sourceCompatibility = '17'
